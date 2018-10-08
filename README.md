@@ -21,7 +21,7 @@ source activate
 cd ..
 ```
 3) Download or clone this repository into your new directory.
-```git clone github_repository_url```
+```git clone https://github.com/digitaldirectorlabs/OpenAnalytica.git```
 4) Install the requirements.txt file using
 ```pip install -r requirements.txt```
 5) Move your NationBuilder voter file and voter history CSVs to the directory.
@@ -49,14 +49,14 @@ Next, create a new Facebook ad campaign and in the adset's audience settings cho
 
 Looks like the candidate can reach between 640 and 2,000 female, working age, swing voters in the district with a targeted message!
 
-Finally, the code generates a CSV of the voter segments table so you can keep track of each key segment you need to reach and their corresponding social media traction. That is - campaigns focused on measuring and growing metrics such as *likes, views, shares, subscriptions, and donations* for swayable, high turnout voter segments across multiple social media platforms such as *Facebook, YouTube, and Twitter* will have a great advantage on election day.
+Finally, the code generates a CSV of the voter segments table so you can keep track of each key segment you need to reach and their corresponding social media traction.  In summary, campaigns focused on measuring and growing metrics such as *likes, views, shares, subscriptions, and donations* for swayable, high turnout voter segments across multiple social media platforms such as *Facebook, YouTube, and Twitter* will have a great advantage on election day.
 
 
 # **How To Contribute**
-We hope others find this work useful, and encourage those wanting to collaborate to email us at *hello@digitaldirectorlabs.com*, sign up for our [email list](https://www.digitaldirectorlabs.com/contact) or fork the [repo](https://github.com/digitaldirectorlabs/OpenAnalytica).
+We hope others find this work useful and encourage those looking to collaborate to email us at *hello@digitaldirectorlabs.com*, sign up for our [email list](https://www.digitaldirectorlabs.com/contact), or fork the repo.
 
 # **Notes**
 * NationBuilder voter files vary by size depending on the number of fields and the size of the voting district, ranging from 100 MB for a small state level campaign to 10 GB for a U.S. senate campaign.  A small voter file should take about 30 seconds to import while a larger voter file (up to 4 or 5GB total) will take up to an hour depending on the machine being used.
 * [Facebook's new policies](https://www.facebook.com/business/m/one-sheeters/ads-with-political-content-us) for political advertising
-* [Great resource](https://medium.com/political-moneyball/how-political-campaigns-are-wasting-thousands-of-dollars-on-facebook-93ec31535519) on how to spend advertising budget wisely on Facebook
+* [Great resource](https://medium.com/political-moneyball/how-political-campaigns-are-wasting-thousands-of-dollars-on-facebook-93ec31535519) for campaigns about how to spend advertising budget wisely on Facebook
 
