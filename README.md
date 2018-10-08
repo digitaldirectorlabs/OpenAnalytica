@@ -53,7 +53,7 @@ Finally, the code generates a CSV of the voter segments table so you can keep tr
 
 
 # **How To Contribute**
-We hope others find this work useful and encourage those looking to collaborate to email us at *hello@digitaldirectorlabs.com*, sign up for our [email list](https://www.digitaldirectorlabs.com/contact), or fork the repo.
+We hope others find this work useful and encourage those looking to collaborate to email us at *hello@digitaldirectorlabs.com* or fork the repo.
 
 # **Notes**
 * NationBuilder voter files vary by size depending on the number of fields and the size of the voting district, ranging from 100 MB for a small state level campaign to 10 GB for a U.S. senate campaign.  A small voter file should take about 30 seconds to import while a larger voter file (up to 4 or 5GB total) will take up to an hour depending on the machine being used.

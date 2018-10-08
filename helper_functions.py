@@ -144,7 +144,7 @@ def age_distribution_by_election(voter_file, voter_history, elections):
     Plot age distribution of voters who voted by election. 
     '''
     fig, axes = plt.subplots(nrows=int(len(elections)/2), ncols=2, 
-                             sharex='none', sharey=True, figsize=(12,40))
+                             sharex='none', sharey='all', figsize=(12,40))
     fig.subplots_adjust(hspace=0.5)
     axes_list = [item for sublist in axes for item in sublist] 
 
