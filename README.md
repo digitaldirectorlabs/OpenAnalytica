@@ -33,18 +33,18 @@ cd ..
 Say an Independent candidate is running in a heavily Republican district.
 
 First, the candidate must identify which age, gender, and party affiliation segments are most important to reach in order to secure 51% of the votes.  For example, by referencing our Jupyter notebook, we see in the last few elections voters aged 40 to 80 were most likely to vote...
-![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/gifs/DD_turnout_by_age.gif)
+![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/blob/master/gifs/DD_turnout_by_age.gif)
 
 In the voter segments table, we can see that Republicans are the vast majority of voters in the district, along with a number of Swing voters and many Nonvoters...
-![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/gifs/DD_segments.gif)
+![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/blob/master/gifs/DD_segments.gif)
 
 
 Now say the candidate has a post about an important political issue.  The candidate's hypothesis is that the message will stick most with working age Female Swing voters. They can then test this hypothesis by targeting specifically those audiences on the social media platform of their choice. For example on [Facebook's Ad Manager](https://www.facebook.com/business/help/200000840044554), start by uploading the [custom audiences](https://www.facebook.com/business/a/custom-audiences) to target...
-![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/gifs/DD_voters_to_FB.gif)
+![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/blob/master/gifs/DD_voters_to_FB.gif)
 
 
 Next, create a new Facebook ad campaign and in the adset's audience settings choose the newly created custom audiences you'd like to reach...
-![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/gifs/DD_target_voters.gif)
+![Output sample](https://github.com/digitaldirectorlabs/OpenAnalytica/blob/master/gifs/DD_target_voters.gif)
 
 
 Looks like the candidate can reach between 640 and 2,000 female, working age, swing voters in the district with a targeted message!
